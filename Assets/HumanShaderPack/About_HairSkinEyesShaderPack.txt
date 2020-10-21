@@ -1,0 +1,27 @@
+HUMAN SHADER PACK
+
+It contains 4 Shader packs:
+
+Simple SSS Skin
+Hair Shader Simple
+Hair Shader 2.0
+Eye Shader
+
+Please refer to the videos from the asset store of each pack. There are links in the description.
+There is also Documentation in each subfolder.
+
+Contact me@robertramsay.co.uk for any help you might need.
+
+If you are using Amplify Shader Editor to rework these shaders.
+
+Please Use the following shaders as a base as they have been reorgananised for this purpose with the 
+main node features and finctions where available.
+
+HairShader2_AS_RRF_Mod1
+EyeShader_Model3
+AdvancedSkinShader_Mar19_A
+
+All of the other graphs are developmental and still need a cleanup/refinement pass. (date: 9th March 2019)
+
+many thanks,
+Robert
